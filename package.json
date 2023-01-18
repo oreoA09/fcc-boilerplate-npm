@@ -1,5 +1,6 @@
 {
-	"name": "oreoA09",
+	"name": "fcc-learn-npm-package-json",
+	"author": "oreoA09",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
